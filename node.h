@@ -191,3 +191,4 @@ void noc_log_traffic(const char *file, node_t *nodes[], rank_t max_rank);
 #endif // _NODE_H
 
 
+// SPDX-License-Identifier: ISC

@@ -370,3 +370,5 @@ void memory_load_file(node_t *node, const char *filename)
         node->pc = node->pc & ~1;
 }
 
+
+// SPDX-License-Identifier: ISC

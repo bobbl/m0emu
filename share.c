@@ -178,4 +178,4 @@ unsigned char *read_whole_file(const char *filename, unsigned long int *size_ptr
 }
 
 
-
+// SPDX-License-Identifier: ISC

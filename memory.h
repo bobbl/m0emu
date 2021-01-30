@@ -332,3 +332,6 @@ GEN_STORE(64, be)
 
 
 #endif // _MEMORY_H
+
+
+// SPDX-License-Identifier: ISC
